@@ -4,7 +4,7 @@ $(document).ready(function() {
   var clientId =
     "489555557929-gg7g4cocvoej26qgl62cr5k062ukocis.apps.googleusercontent.com";
   //Url which user redirects to
-  var redirect_uri = "http://localhost/DriveUploader/upload.html";
+  var redirect_uri = "http://localhost:8080/DriveUploader/upload.html";
   //Accessing google api
   var scope = "https://www.googleapis.com/auth/drive";
   url = "";

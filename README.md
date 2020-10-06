@@ -21,6 +21,6 @@
 
 ##### `9. Thereafter, confirm the process by Clicking on "Allow".`
 
-##### `10. Choose file and click on upload button.`
+##### `10. Choose a file and click on upload button.`
 
 ##### `11. Check your google drive, the file has been uploaded to your drive.`

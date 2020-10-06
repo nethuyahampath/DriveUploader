@@ -15,12 +15,12 @@
 
 ##### `6. Then you will redirect to the home page and then click on "Get Google Access" button.`
 
-##### `7. Then you will have to choose your preffered gmail account from the list and proceed.`
+##### `7. Choose your preffered gmail account from the list and proceed.`
 
-##### `8. Then you have to click on "Advanced" at the bottom then click on "Go to DriveUploader"`
+##### `8. Click on "Advanced" at the bottom then click on "Go to DriveUploader"`
 
 ##### `9. Thereafter, confirm the process by Clicking on "Allow".`
 
-##### `10. Then you will redirect to the upload page, so choose file and click on upload button.`
+##### `10. Choose file and click on upload button.`
 
 ##### `11. Check your google drive, the file has been uploaded to your drive.`

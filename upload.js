@@ -2,7 +2,7 @@
 $(document).ready(function() {
   const urlParams = new URLSearchParams(window.location.search);
   const code = urlParams.get("code");
-  const redirect_uri = "http://localhost:8080/DriveUploader/upload.html";
+  const redirect_uri = "http://localhost/DriveUploader/upload.html";
   const client_secret = "7El71Ks-MR6xqsA-97iAkuzo";
   const scope = "https://www.googleapis.com/auth/drive";
   var access_token = "";

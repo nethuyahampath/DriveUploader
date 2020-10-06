@@ -10,7 +10,7 @@
 **wampp** -> C:/wampp/www/
 ##### `4. Start the server (Now your localhost has turned on).`
 
-##### `5. Open the browser and type -> http://localhost/DriveUploader/index.html.`
+##### `5. Open the browser and type -> http://localhost:8080/DriveUploader/index.html.`
 **Else you can go inside to the folder that we placed inside the server and then open index.html file**
 
 ##### `6. Then you will redirect to the home page and then click on "Get Google Access" button.`

@@ -1,0 +1,78 @@
+/* All styling codes which are used by the upload.html file */
+@import "https://fonts.googleapis.com/css?family=Lato:100";
+
+section {
+  width: 100%;
+  height: 100vh;
+  color: MediumTurquoise;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  position: relative;
+  animation: change 10s ease-in-out infinite;
+  background-color: transparent;
+}
+
+@keyframes change {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+h1 {
+  margin-left: 45%;
+  font-size: 30%;
+  padding-top: 10%;
+  font-size: 5rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  border: 3px, solid, #fff;
+  position: relative;
+  top: 15%;
+  padding: 8%;
+  transform: translate(-50%, -50%);
+  padding: 5rem, 10rem;
+  text-shadow: 2px 2px grey;
+  font-variant: small-caps;
+}
+
+.upload-container {
+  margin-left: 26%;
+  width: 50%;
+  background-color: transparent;
+}
+
+#progress-wrp {
+  border: 1px solid #e73c7e;
+  /* padding: 1px; */
+  position: relative;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 30px;
+  text-align: left;
+  background: pink;
+  box-shadow: inset 1px 3px 6px rgba(0, 0, 0, 0.12);
+}
+
+#progress-wrp .progress-bar {
+  height: 100%;
+  border-radius: 3px;
+  background-color: #FFFF00;
+  width: 0;
+  box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.11);
+}
+
+#progress-wrp .status {
+  top: 3px;
+  left: 50%;
+  position: absolute;
+  display: inline-block;
+  color: #000000;
+}
+
+

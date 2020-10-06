@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>File Uploader to Google Drive</title>
+    <link rel="stylesheet" href="main.css" />
+    <!-- Get jquery access -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="main.js"></script>
+    <!-- Get bootstrap access for styling purposes -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <section>
+      <div class="border-container">
+        <h1>Upload Your Files to google drive from here !</h1>
+      </div>
+      <div class="wrapper">
+        <img src="google.jpg" width="40" height="40" />
+        <!-- After the button clicks getAccess method which is in main.js file will be call -->
+        <button type="submit" class="btn btn-success" id="getAccess">
+          Get Google Access
+        </button>
+      </div>
+    </section>
+  </body>
+</html>

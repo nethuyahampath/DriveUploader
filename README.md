@@ -13,7 +13,7 @@
 ##### `5. Open the browser and type -> http://localhost/DriveUploader/index.html.`
 **Else you can go inside to the folder that we placed inside the server and then open index.html file**
 &nbsp;
-##### `6. The you will redirect to the home page and then click on "Get Google Access" button.`
+##### `6. Then you will redirect to the home page and then click on "Get Google Access" button.`
 &nbsp;
 ##### `7. Then you will have to choose your preffered gmail account from the list and proceed.`
 &nbsp;

@@ -12,6 +12,8 @@
 
 ##### `5. Open the browser and type -> http://localhost/DriveUploader/index.html.`
 **Else you can go inside to the folder that we placed inside the server and then open index.html file**
+**Note: Default port is port 80 if that port already used by other program, then you need to change the redirect url in both main.js and upload.js files as follows,**
+          http://localhost:<port>/DriveUploader/index.html
 
 ##### `6. Then you will redirect to the home page and then click on "Get Google Access" button.`
 

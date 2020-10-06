@@ -2,6 +2,7 @@
 ### Building and Testing!
 &nbsp;
 ##### `1. Clone the DriveUploader repository to your local machine.`
+###### Note -> If you are downloading as a zip file. Rename it as DriveUploader
 
 ##### `2. Download and install xampp or wampp server.`
 
